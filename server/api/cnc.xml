@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<machines>
+    <machine>
+    	<id>1</id>
+        <name>Chevalier</name>
+        <ipAddress>192.168.30.11</ipAddress>
+		<type>cnc</type>
+    <ip>192.168.30.11</ip></machine>
+    <machine>
+    	<id>2</id>
+        <name>AAA</name>
+        <ipAddress>192.168.30.12</ipAddress>
+		<type>cnc</type>
+    </machine>
+    <machine>
+    	<id>3</id>
+        <name>BBB</name>
+        <ipAddress>192.168.30.13</ipAddress>
+		<type>tornio</type>
+    </machine>
+<machine><id>4</id><name>Tornier</name><ip>192.168.30.14</ip><type>tornio</type></machine></machines>
