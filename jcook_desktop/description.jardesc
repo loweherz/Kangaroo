@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Mancio/Desktop/LRM/LRM.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/LRM_Kangaroo/description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=LRM_Kangaroo/src&lt;it.mancin{MainClass.java[MainClass" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal>
+                <package handleIdentifier="=LRM_Kangaroo/src&lt;it.mancin"/>
+            </packagesToUnSeal>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="false" exportOutputFolder="true">
+        <javaElement handleIdentifier="=LRM_Kangaroo/src"/>
+    </selectedElements>
+</jardesc>
